@@ -1,0 +1,7 @@
+# rs
+/target
+binding.rs
+
+# kt
+kt/.gradle
+kt/build
